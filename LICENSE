@@ -1,24 +1,17 @@
-This is free and unencumbered software released into the public domain.
+All the documentation in this repository is provided with complete permission, and no warranties.
+Individual files can have their own license, which should be specified at the top of the file by the contributor.
+Said license must be respected on a per file basis.
+Do not try to apply licenses to unlicensed files in the repository that were not your contribution, or your pull request will simply be rejected.
+Contributions to existing files must respect the file's license.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+File license guidelines:
+    The license must allow usage free of charge.
+    The license must allow redistribution as long the original license is preserved.
+    A license can only be added or modified at file upload time.
+    Once a file is uploaded as a contribution, it's license is sealed in stone and cannot be changed by contributors or it's original uploaders.
+    Unlicensed files are simply of public ownership of the modding community.
+    Contributors have a right to add their name/username/nickname to the file's contributions list. However they are not obliged to.
+    Once a file is uploaded as a contribution, it CANNOT under any circumstances be deleted. only archived. 
+    Archived files must remain accessible in the repository at all times with it's original license and contributors list.
+    You must be the author of any contribution, or the source's license must comply the file license guidelines.
+    
