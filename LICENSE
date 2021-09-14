@@ -1,17 +1,23 @@
-All the documentation in this repository is provided with complete permission, and no warranties.
-Individual files can have their own license, which should be specified at the top of the file by the contributor.
-Said license must be respected on a per file basis.
-Do not try to apply licenses to unlicensed files in the repository that were not your contribution, or your pull request will simply be rejected.
-Contributions to existing files must respect the file's license.
+License originally written by NamelessHoodie Copyright © 2021, All rights reserved. Revision v1.1
 
-File license guidelines:
+All the files in this repository lacking a license belong publicly to the modding community and are provided with full permissions and no warranties or liabilities.
+Individual files can have their license, which should be specified at the top of the file by the contributor.
+Entire folders can also be licensed by including a text file named FOLDERLICENSE inside of it, the license will apply to any file inside that folder
+
+File/Folder license Guidelines:
     The license must allow usage free of charge.
-    The license must allow redistribution as long the original license is preserved.
-    A license can only be added or modified at file upload time.
-    Once a file is uploaded as a contribution, it's license is sealed in stone and cannot be changed by contributors or it's original uploaders.
-    Unlicensed files are simply of public ownership of the modding community.
-    Contributors have a right to add their name/username/nickname to the file's contributions list. However they are not obliged to.
-    Once a file is uploaded as a contribution, it CANNOT under any circumstances be deleted. only archived. 
-    Archived files must remain accessible in the repository at all times with it's original license and contributors list.
-    You must be the author of any contribution, or the source's license must comply the file license guidelines.
+    The license must allow redistribution and editing as long the original license and contributors list are preserved.
+    The license must not conflict in any shape or form with the repository's license.
+    Once a licensed file/folder is uploaded as a contribution, its license is sealed in stone and cannot be changed by contributors or its original uploaders.
+    Once a folder is uploaded as a contribution, it CANNOT under any circumstances be deleted. only archived.
+    Licensed folders may have their contents and structure altered, however, no file which was previously in a licensed folder can leave the licensed folder.
+    Contributors have a right to add their name/username/nickname to the file's contributions list. However, they are not obliged to.
+    Archived files must remain accessible in the repository at all times with their original license and contributors list.
+    You must be the author of any contribution, or the source's license must comply with the file license guidelines.
+    Where possible, the license and contributions list should be at the top of the file.
     
+File Contribution Guidelines:
+    Contributions to existing files must respect the file's license, additionally any contributions will fall under the file's license.
+
+I NamelessHoodie reserve the right to the repository's maintainers to operate above the licensing guidelines for the sake of tidiness, cleanliness, and functionality.
+I NamelessHoodie reserve the right to the repository's maintainers to accept or deny contributions, even contributions that are technically against the license guidelines.
