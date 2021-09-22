@@ -1,9 +1,10 @@
-License written by NamelessHoodie. Revision v1.1
+License written by NamelessHoodie. Revision v1.2
 
 All the files in this repository lacking a license are public domain and are provided with full permissions and no warranties or liabilities, with the exception of individual files containing their own license, or licensed folders.
 Individual files can have their license, which should be specified at the top of the file by the contributor.
 Entire folders can also be licensed by including a text file named FOLDERLICENSE inside of it, the license will apply to any file inside that folder.
-All copyrighted files present in this repository are for informational porpouses and belong to their respective owner. Make sure to specify the copyrighted owner in the folder license if you desire to make a contribution and upload copyrighted files to the repository.
+All copyrighted files present in this repository are for informational porpouses only and belong to their respective owner. 
+Make sure to specify the copyright owner for each file in the folder license if you desire to make a contribution that contains copyrighted files.
 
 File/Folder license Guidelines:
     The license must allow usage free of charge.
