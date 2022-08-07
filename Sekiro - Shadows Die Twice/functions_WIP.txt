@@ -1,0 +1,12 @@
+/// <summary>
+/// Equips prosthetics and combat arts.
+/// 
+/// slotNumArg: 4 slot numbers
+///             0: 1st prosthetic
+///             1: combat art
+///             2: 2nd prosthetic
+///             3: 3rd prosthetic
+/// </summary>
+typedef __int64(__fastcall* _EquipArt2)(unsigned int slotNumArg, __int64 paddedArray, bool ForceEquipArg);
+extern _EquipArt2 EquipItem;
+_EquipArt2 EquipItem = (_EquipArt2)(0x140D592F0);
